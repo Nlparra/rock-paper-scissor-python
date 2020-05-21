@@ -30,7 +30,7 @@ def game(user_hand):
         #         print("You win!", user_hand, "cut", pc_choice())
         # else:
         #     print("That's not a valid play. Check your spelling!")
-
+need to improve the code
 print(game())
 
 
